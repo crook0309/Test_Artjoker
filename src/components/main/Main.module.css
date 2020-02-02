@@ -1,0 +1,32 @@
+.itemWrap{
+    margin: 40px 15px ;
+    border: 1px solid #A9A9A9;
+    height: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.filterWrap {
+    margin-top: 40px;
+    margin-bottom: ;
+}
+.btnReset {
+    width: 100px;
+}
+.rowItem {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.itemActive {
+    color: black;
+}
+.itemActive {
+    cursor: pointer;
+    color: black;
+}
+.itemInactive {
+    color: gray;
+}
+.itemInactive:hover {
+    cursor: pointer;
+    color: gray;
+}
